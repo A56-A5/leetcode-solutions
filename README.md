@@ -12,5 +12,5 @@ Each question may be solved in one or more languages.
 
 ## 🔗 My LeetCode Profile
 
-[A56A5](https://leetcode.com/u/alviav)
+[A56A5](https://leetcode.com/u/A56A5/)
 
