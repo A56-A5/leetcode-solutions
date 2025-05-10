@@ -7,7 +7,7 @@ I'm solving these to improve my problem-solving and coding skills.
 
 ## 📂 Structure
 
-Problems are organized by topic (e.g., Arrays, Strings, Recursion).  
+Problems are organized by difficulty and topic (e.g., Arrays, Strings, Recursion).  
 Each question may be solved in one or more languages.
 
 ## 🔗 My LeetCode Profile
