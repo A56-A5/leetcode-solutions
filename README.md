@@ -10,6 +10,9 @@ I'm solving these to improve my problem-solving and coding skills.
 Problems are organized by difficulty and topic (e.g., Arrays, Strings, Recursion).  
 Each question may be solved in one or more languages.
 
+- ### 🧠 LeetCode Contributions
+![LeetCode Metrics](./metrics.plugin.leetcode.svg)
+
 ## 🔗 My LeetCode Profile
 
 [A56A5](https://leetcode.com/u/A56A5/)
