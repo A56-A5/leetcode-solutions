@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="22.371289800323797 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">252</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="22.460064759848894 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">253</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3706</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="65.8 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">181</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="66.16353591160221 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">182</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/905</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -66,13 +66,13 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x110</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x81</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x72</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x36</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x37</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x34</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x33</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x33</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x29</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x16</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x15</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x16</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Add Two Numbers II</div>
-                            <div class="date">8 Oct 2025</div>
+                            <div class="title">Intersection of Two Linked Lists</div>
+                            <div class="date">9 Oct 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,7 +96,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Detect Capital</div>
+                            <div class="title">Add Two Numbers II</div>
                             <div class="date">8 Oct 2025</div>
                         </div>
                     </div>
