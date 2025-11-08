@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.48781793842035 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">278</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.663989290495316 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">280</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3735</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.86153846153846 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">196</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.22307692307693 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">197</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/910</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.354423868312757 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">73</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.52366255144033 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">74</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1944</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x122</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x123</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x87</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x78</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x41</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x79</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x42</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x39</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x35</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x35</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x23</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x17</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x16</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x17</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Sort Matrix by Diagonals</div>
-                            <div class="date">6 Nov 2025</div>
+                            <div class="title">Delete Nodes From Linked List Present in Array</div>
+                            <div class="date">7 Nov 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Power of Four</div>
-                            <div class="date">5 Nov 2025</div>
+                            <div class="title">Power of Three</div>
+                            <div class="date">7 Nov 2025</div>
                         </div>
                     </div>
                 </section>
