@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="25.624966657775406 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">292</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="25.800480128034145 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">294</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3749</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="74.23220153340635 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">206</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="74.95290251916758 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">208</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/913</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Contains Duplicate II</div>
-                            <div class="date">19 Nov 2025</div>
+                            <div class="title">Max Consecutive Ones</div>
+                            <div class="date">20 Nov 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Convert Sorted Array to Binary Search Tree</div>
-                            <div class="date">18 Nov 2025</div>
+                            <div class="title">Shuffle the Array</div>
+                            <div class="date">20 Nov 2025</div>
                         </div>
                     </div>
                 </section>
