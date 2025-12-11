@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="30.083487940630796 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">345</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="30.606679035250462 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">351</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3773</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.4825327510917 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">238</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="87.63755458515284 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">244</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/916</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -63,12 +63,12 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x149</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x94</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x150</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x95</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x87</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x54</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x44</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x44</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x43</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x36</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x27</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x26</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find N Unique Integers Sum up to Zero</div>
-                            <div class="date">9 Dec 2025</div>
+                            <div class="title">Employees Whose Manager Left the Company</div>
+                            <div class="date">10 Dec 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Count Square Sum Triples</div>
-                            <div class="date">8 Dec 2025</div>
+                            <div class="title">Find Customer Referee</div>
+                            <div class="date">10 Dec 2025</div>
                         </div>
                     </div>
                 </section>
