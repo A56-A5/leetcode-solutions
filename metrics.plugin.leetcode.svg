@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x307</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x308</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x164</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x144</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x114</span></div>
@@ -71,7 +71,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x69</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x68</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x51</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x47</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x48</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x46</span></div>
                     </div>
                 </section>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Cinema Seat Allocation</div>
-                            <div class="date">19 Aug 2026</div>
+                            <div class="title">Distribute Elements Into Two Arrays I</div>
+                            <div class="date">20 Aug 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find the Largest Almost Missing Integer</div>
-                            <div class="date">18 Aug 2026</div>
+                            <div class="title">Cinema Seat Allocation</div>
+                            <div class="date">19 Aug 2026</div>
                         </div>
                     </div>
                 </section>
